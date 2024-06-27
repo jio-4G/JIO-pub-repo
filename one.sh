@@ -1,2 +1,2 @@
-echo "I am from singapore"
+echo "I am from python"
 
